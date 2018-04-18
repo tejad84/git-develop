@@ -1,1 +1,5 @@
-fbasjfbaiufeai
+cd \ 
+mkdir cmd2
+cd cmd2
+touch c2 c22 c222
+ls
