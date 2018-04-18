@@ -1,1 +1,5 @@
-gnsdongosgrgnrozdxglglf
+cd \
+mkdir cmd3
+cd cmd3
+touch c3 c33 c333
+ls
