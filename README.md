@@ -1,2 +1,3 @@
-# git-develop
-this is jenkins file
+cd \
+rm -rf  cmd1 
+mkdir cmd1
